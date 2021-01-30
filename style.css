@@ -1,0 +1,31 @@
+body{
+    background-color: aliceblue;
+}
+#booking-area{
+    /* display: none; */
+    padding-top: 5%;
+    padding-left: 30%;
+}
+.card1{
+    
+    background-color:rgba(201, 225, 233, 0.344) ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px ;
+    color:rgb(39, 31, 12);
+}
+
+
+
+#confirmation{
+display: none;
+padding-top: 5%;
+padding-left: 40%;
+}
+
+.card2{
+    background-color:aliceblue ;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px ;
+    color: #4cbadf;
+}
+
